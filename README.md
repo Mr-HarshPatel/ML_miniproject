@@ -1,1 +1,2 @@
-# ML_miniproject
+# streamlit_ml_app
+ 
